@@ -1,6 +1,6 @@
 {
   "name": "ahshamalam-atm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Here is a simple Cli based Atm machine made using Typescript",
   "main": "main.js", 
   "type": "module",
